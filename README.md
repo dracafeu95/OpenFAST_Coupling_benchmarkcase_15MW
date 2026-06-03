@@ -134,7 +134,7 @@ Point probes are defined along the rotor centreline (vertical direction through 
 
 ## Summary
 
-This document defines a deterministic benchmark case for existing aero-servo-elastic couplings using the IEA 15 MW reference turbine in uniform, non-turbulent inflow.
+This document defines a deterministic benchmark case for existing aero-servo-elastic couplings using the IEA 15 MW reference turbine in uniform, non-turbulent inflow. For any further questions, contact Anand Parinam : a.parinam@tudelft.nl
 
 Following codes are taking part:
 
